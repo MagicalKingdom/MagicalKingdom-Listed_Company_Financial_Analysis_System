@@ -38,7 +38,7 @@ financial_analysis_for_public_companies/
 ### 1. 克隆项目
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/MagicalKingdom/MagicalKingdom-Listed_Company_Financial_Analysis_System.git
 cd financial_analysis_for_public_companies
 ```
 
